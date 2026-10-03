@@ -2,13 +2,6 @@
 
  > A production-style Azure platform built to demonstrate practical DevOps, cloud engineering, automation, security, and observability skills.
 
- [](<https://github.com/>)\
- [](<https://azure.microsoft.com/>)\
- [](<https://www.terraform.io/>)\
- [](<https://www.docker.com/>)\
-
----
-
  ## 📖 Overview
 
  **Azure Ops Lab** is a hands-on cloud and DevOps project designed to demonstrate how a modern application can be built, deployed, secured, monitored, and operated on Microsoft Azure.

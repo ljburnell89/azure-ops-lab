@@ -1,5 +1,3 @@
-Absolutely — I'd make the README feel like a **real engineering project**, while being honest that the platform is being built progressively. That gives you a strong starting point and plenty of room to document your decisions as the project develops.
-
  # Azure Ops Lab
 
  > A production-style Azure platform built to demonstrate practical DevOps, cloud engineering, automation, security, and observability skills.
